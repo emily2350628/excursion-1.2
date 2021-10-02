@@ -13,3 +13,12 @@ body{
     color: aquamarine;
     text-decoration: underline;
 }
+.header--secondary{
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+.header--sub-header{
+    color: gray;
+    font-size: 21px;
+}
